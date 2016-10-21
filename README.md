@@ -229,6 +229,7 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Cleveland Tech Slack](https://cleveland-tech.herokuapp.com/) - which goes to [here](https://cleveland-tech.slack.com)
 * [Findlay Radio Club](https://www.findlayradioclub.org/)
 * [Hamfest Association of Cleveland](http://www.hac.org/)
+* [Hudson Software Craftsmanship](https://twitter.com/hudsonsc)
 * [Cleveland Game Developers](http://clevelandgamedevs.com/)
 * [Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group/)
 * [Cleveland Python/Julia/R Data Science Group](https://www.meetup.com/Greater-Cleveland-SciPy-Julia-R-Data-Science-Group/)
@@ -261,7 +262,8 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Entrovation](http://www.entrovation.com/)
 * [Classic console and arcade game show](http://www.ccagshow.com/)
 * [Retro Exchange Cleveland](https://www.facebook.com/retroexchangecleveland/)
-* [Stir Trek](http://www.stirtrek.com/)
+* [Stir Trek](http://stirtrek.com/)
+* [Codemash](http://codemash.org/)
 * [Tribe hackathon](http://www.tribehackathon.com/)
 * [Cleveland Medical Hackathon](http://clevelandmedicalhackathon.com/)
 * [Dayton Hamvention](http://hamvention.org/)
@@ -327,7 +329,6 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [startup CLE](http://www.startupcle.co/)
 * [Launch League](http://www.launchleague.org/)
 
-
 ## Freelance
 
 * [guru.com](guru.com)
@@ -339,6 +340,12 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [untapt](https://www.untapt.com/#/dashboard)
 * [upwork](https://www.upwork.com/)
 
+## Coworking
+
+* [OSC Tech Lab](http://www.osctechlab.com/index.html)
+* [Tech Hub Hudson](http://www.techhubhudson.com/)
+* [Terminal Tower co-work spaces](https://liquidspace.com/Venues/tower-5-0-town-hall)
+
 ## Other Links
 
 * [Google interview process](http://blog.lambda-startup.com/2014/03/recruitment-process-for-google-job-sre.html?m=1)
@@ -346,7 +353,5 @@ List of local Cleveland tech companies and resources, in absolutely no order.
 * [Sharedesk](http://www.sharedesk.net/)
 * [Workfrom](https://workfrom.co/)
 * [faxing](https://www.petekeen.net/command-line-faxing) - because unfortunately some people still do this, uses [Phaxio](https://www.phaxio.com/)
-* [Terminal Tower co-work spaces](https://liquidspace.com/Venues/tower-5-0-town-hall)
-* [OSC Tech Lab](http://www.osctechlab.com/index.html)
 * [GeekCLE](http://geekcle.com/)
 * [How to make Pittburgh a Startup HuB](http://paulgraham.com/pgh.html) - sounds like Cleveland
